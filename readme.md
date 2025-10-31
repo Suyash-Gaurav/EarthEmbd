@@ -14,7 +14,7 @@ Dataset Authentication, api calling, visualizaion, 1 Hypothesis & (RQ1) Research
 Department of Digitial Business and Innovation & Department of Business Economics 
 
 Email: s23224522@al.tiu.ac.jp
-Cheers!
+
 ---
 
 ## Dataset Description
