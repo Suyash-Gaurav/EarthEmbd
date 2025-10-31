@@ -2,7 +2,10 @@
 
 This repository contains code and documentation for an academic investigation into the utility of satellite image embeddings for geospatial machine learning tasks. The analysis focuses on a case study of the Krishna Raja Sagara (KRS) Reservoir region in Karnataka, India, using the AlphaEarth 64-dimensional embedding dataset provided by Google Earth Engine.
 
+
 Authors: Suyash Gaurav & Aman Kamat
+
+
 Department of Digitial Business and Innovation & Department of Business Economics 
 
 Email: s23224522@al.tiu.ac.jp
