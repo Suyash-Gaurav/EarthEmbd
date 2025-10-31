@@ -11,9 +11,9 @@ Department of Digitial Business and Innovation & Department of Business Economic
  
 Work Distribution: 
 
-Code, Analysis, Repo Creation, 2 Hypothesis & (RQ-2 - RQ3) 9Research Question: Suyash
+Code, Analysis, Repo Creation,  (RQ-2 - RQ3) and its Hypothesis : Suyash
 
-Dataset Authentication, api calling, visualizaion, 1 Hypothesis & (RQ1) Research Question: Aman
+Dataset Authentication, Data Api calling, visualizaion, (RQ1) and its Hyptohesis: Aman
 
 
 
