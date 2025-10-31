@@ -1,6 +1,6 @@
 # EarthEM: Embedding-Based Remote Sensing Analysis of Land Use and Climate Dynamics
 
-This repository contains code and documentation for an academic investigation into the utility of satellite image embeddings for geospatial machine learning tasks. The analysis focuses on a case study of the Krishna Raja Sagara (KRS) Reservoir region in Karnataka, India, using the AlphaEarth 64-dimensional embedding dataset provided by Google Earth Engine.
+This repository contains code and documentation for an investigation into the utility of satellite image embeddings for geospatial machine learning tasks. The analysis focuses on a case study of the Krishna Raja Sagara (KRS) Reservoir region in Karnataka, India, using the AlphaEarth 64-dimensional embedding dataset provided by Google Earth Engine.
 
 
 Authors: Suyash Gaurav & Aman Kamat
