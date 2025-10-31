@@ -4,7 +4,12 @@ This repository contains code and documentation for an academic investigation in
 
 
 Authors: Suyash Gaurav & Aman Kamat
+ 
+Work Distribution: 
 
+Code, Analysis, Repo Creation, 2 Hypothesis & 2 Research Question: Suyash
+
+Dataset Authentication, api calling, visualizaion, 1 Hypothesis & 1 Research Question: Aman
 
 Department of Digitial Business and Innovation & Department of Business Economics 
 
