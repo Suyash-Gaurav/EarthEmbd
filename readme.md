@@ -7,9 +7,9 @@ Authors: Suyash Gaurav & Aman Kamat
  
 Work Distribution: 
 
-Code, Analysis, Repo Creation, 2 Hypothesis & 2 Research Question: Suyash
+Code, Analysis, Repo Creation, 2 Hypothesis & (RQ-2 - RQ3) 9Research Question: Suyash
 
-Dataset Authentication, api calling, visualizaion, 1 Hypothesis & 1 Research Question: Aman
+Dataset Authentication, api calling, visualizaion, 1 Hypothesis & (RQ1) Research Question: Aman
 
 Department of Digitial Business and Innovation & Department of Business Economics 
 
