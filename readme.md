@@ -12,7 +12,7 @@ Email: s23224522@al.tiu.ac.jp
 Cheers!
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 * **Source:** [Google Earth Engine: Satellite Embedding V1 (Annual)](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL)
 * **Data Type:** 64-dimensional spectral-temporal embeddings for each 10-meter pixel
@@ -24,7 +24,7 @@ This dataset enables remote sensing analysis without direct reliance on raw spec
 
 ---
 
-## 🎓 Research Objectives and Methodology
+## Research Objectives and Methodology
 
 This notebook addresses three research questions through a hypothesis-driven empirical framework. Each question is approached using minimal supervision to evaluate the performance and interpretability of the satellite embeddings.
 
@@ -87,7 +87,7 @@ This notebook addresses three research questions through a hypothesis-driven emp
 
 ---
 
-## 🔬 Technical Implementation
+## Technical Implementation
 
 * **Platform:** Google Earth Engine (Python API)
 * **ML Libraries:**
@@ -107,7 +107,7 @@ This notebook addresses three research questions through a hypothesis-driven emp
 
 ---
 
-## 🧭 Execution Instructions
+## Execution Instructions
 
 1. Install dependencies:
 
@@ -129,7 +129,7 @@ This notebook addresses three research questions through a hypothesis-driven emp
 
 ---
 
-## 🖼 Visual Outputs
+## Visual Outputs
 
 * Confusion matrix for crop classification
 * Classification map of land cover predictions
@@ -139,12 +139,12 @@ This notebook addresses three research questions through a hypothesis-driven emp
 
 ---
 
-## 📚 Citation & Attribution
+## Citation & Attribution
 
 If used in academic work, please cite the Google Earth Engine Satellite Embedding dataset and acknowledge the repository authors.
 
 ---
 
-## 📜 License
+## License
 
 MIT License – open for academic and non-commercial research applications.
